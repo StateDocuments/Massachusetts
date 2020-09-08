@@ -1,5 +1,3 @@
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/camera1_l.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/queenanne.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/roofcam2ne500x281.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/seatac.jpg)
-![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/waterfront.jpg)
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/1234.jpg)
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/407730.jpg)
+![AJJAIDAVE-StoryAuthorEngine-](https://github.com/StateDocuments/Massachusetts/blob/master/boston_left.jpg)
